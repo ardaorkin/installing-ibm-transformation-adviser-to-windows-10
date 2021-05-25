@@ -8,7 +8,7 @@
 
 - Create a directory like C:\IBM\WebSphere\Liberty in your machine where Installation Manager will be installed.
 - Open [IBM Fix Central](https://www.ibm.com/support/fixcentral/swg/selectFixes?parent=ibm~Rational&product=ibm/Rational/IBM+Installation+Manager&function=all).
-- Select the file which have the explanation “IBM Installation Manager Install Kit for all Windows versions supported by version 1.9.1.5”.
+- Select the first file which is for x86-64 systems.
 - Click Continue.
 - In next page, click Download using your browser (HTTPS) option.
 - Click Continue
